@@ -1,31 +1,32 @@
 :root {
   --yellow-100: #ffd89f;
-  --yellow-200: #fef7d2;
-  --yellow-800: #ffb03f;
-  --fuchsia-200: #ffe4ff;
-  --fuchsia-800: #ff5afe;
-  --green-200: #e1f3d6;
+  --yellow-200: #fffefa;
+  --yellow-800: #b26000;
+  --fuchsia-200: #fff5ff;
+  --fuchsia-800: #c700c6;
+  --green-200: #f7f9f5;
   --green-800: #44b600;
-  --green-900: #328500;
-  --red-200: #f9d6dc;
+  --green-900: #307f01;
+  --red-200: #fce9ec;
   --red-800: #d80027;
-  --blue-200: #e2ecfc;
+  --blue-200: #f3f8ff;
   --blue-600: #89baff;
-  --blue-800: #4888ee;
+  --blue-800: #1768e9;
   --gray: #a19ea8; /* TODO: Sync with Figma color styles */
   --white-900: #ffffff;
-  --orange-200: #ffe9df;
-  --orange-800: #ff7439;
-  --black-100: rgba(115, 110, 125, 0.16);
+  --orange-100: rgba(210, 63, 0, 0.16);
+  --orange-200: #fff8f5;
+  --orange-800: #d23f00;
+  --black-100: #efeff0;
   --black-200: #f3f2f5;
   --black-300: #dddce0;
   --black-400: #b9b7be;
-  --black-600: #736e7d;
+  --black-600: #6e6977;
   --black-700: #37333d;
   --black-800: #16141a;
   --purple-200: #e0dcf3;
   --purple-800: #3c24b3;
-  --dcl-primary: #ff2d55;
+  --dcl-primary: #ec0000;
 
   --background-catalyst: rgba(72, 136, 238, 0.08);
   --background-poi: rgba(68, 182, 0, 0.08);
